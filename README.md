@@ -1,4 +1,4 @@
-# docs.hackerspace.sg 💥
+# [docs.hackerspace.sg](docs.hackerspace.sg) 💥
 
 > HackerspaceSG is Singapore's very own Hackerspace.
 >
